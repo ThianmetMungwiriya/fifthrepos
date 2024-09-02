@@ -1,0 +1,52 @@
+D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\obj\Debug\Banking.baml
+D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\obj\Debug\MainWindow.baml
+D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\obj\Debug\Banking.g.cs
+D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\obj\Debug\MainWindow.g.cs
+D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\obj\Debug\App.g.cs
+D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\obj\Debug\BankingApp_MarkupCompile.cache
+D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\obj\Debug\BankingApp.g.resources
+D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\obj\Debug\BankingApp.Properties.Resources.resources
+D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\obj\Debug\BankingApp.csproj.GenerateResource.Cache
+D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\bin\Debug\BankingApp.exe.config
+D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\bin\Debug\BankingApp.exe
+D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\bin\Debug\BankingApp.pdb
+D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\obj\Debug\BankingApp.exe
+D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\obj\Debug\BankingApp.pdb
+D:\MyTafe\2017_S1\5TSD\Resources\Session05\BankingApp\BankingApp\bin\Debug\BankingApp.exe.config
+D:\MyTafe\2017_S1\5TSD\Resources\Session05\BankingApp\BankingApp\obj\Debug\BankingApp.exe
+D:\MyTafe\2017_S1\5TSD\Resources\Session05\BankingApp\BankingApp\obj\Debug\BankingApp.pdb
+D:\MyTafe\2018_S1\5TSD\Resources\Session05\BankingApp\BankingApp\bin\Debug\BankingApp.exe.config
+D:\MyTafe\2018_S1\5TSD\Resources\Session05\BankingApp\BankingApp\obj\Debug\BankingApp.exe
+D:\MyTafe\2018_S1\5TSD\Resources\Session05\BankingApp\BankingApp\obj\Debug\BankingApp.pdb
+C:\TAFESA\2022_S1\Adelaide - Subjects\ICTICT449GIT\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\Student Files\BankingApp\BankingApp\bin\Debug\BankingApp.exe.config
+C:\TAFESA\2022_S1\Adelaide - Subjects\ICTICT449GIT\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\Student Files\BankingApp\BankingApp\bin\Debug\BankingApp.exe
+C:\TAFESA\2022_S1\Adelaide - Subjects\ICTICT449GIT\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\Student Files\BankingApp\BankingApp\bin\Debug\BankingApp.pdb
+C:\TAFESA\2022_S1\Adelaide - Subjects\ICTICT449GIT\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\Student Files\BankingApp\BankingApp\obj\Debug\BankingApp.csprojAssemblyReference.cache
+C:\TAFESA\2022_S1\Adelaide - Subjects\ICTICT449GIT\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\Student Files\BankingApp\BankingApp\obj\Debug\Banking.baml
+C:\TAFESA\2022_S1\Adelaide - Subjects\ICTICT449GIT\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\Student Files\BankingApp\BankingApp\obj\Debug\MainWindow.baml
+C:\TAFESA\2022_S1\Adelaide - Subjects\ICTICT449GIT\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\Student Files\BankingApp\BankingApp\obj\Debug\Banking.g.cs
+C:\TAFESA\2022_S1\Adelaide - Subjects\ICTICT449GIT\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\Student Files\BankingApp\BankingApp\obj\Debug\MainWindow.g.cs
+C:\TAFESA\2022_S1\Adelaide - Subjects\ICTICT449GIT\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\Student Files\BankingApp\BankingApp\obj\Debug\App.g.cs
+C:\TAFESA\2022_S1\Adelaide - Subjects\ICTICT449GIT\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\Student Files\BankingApp\BankingApp\obj\Debug\BankingApp_MarkupCompile.cache
+C:\TAFESA\2022_S1\Adelaide - Subjects\ICTICT449GIT\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\Student Files\BankingApp\BankingApp\obj\Debug\BankingApp.g.resources
+C:\TAFESA\2022_S1\Adelaide - Subjects\ICTICT449GIT\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\Student Files\BankingApp\BankingApp\obj\Debug\BankingApp.Properties.Resources.resources
+C:\TAFESA\2022_S1\Adelaide - Subjects\ICTICT449GIT\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\Student Files\BankingApp\BankingApp\obj\Debug\BankingApp.csproj.GenerateResource.cache
+C:\TAFESA\2022_S1\Adelaide - Subjects\ICTICT449GIT\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\Student Files\BankingApp\BankingApp\obj\Debug\BankingApp.csproj.CoreCompileInputs.cache
+C:\TAFESA\2022_S1\Adelaide - Subjects\ICTICT449GIT\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\Student Files\BankingApp\BankingApp\obj\Debug\BankingApp.exe
+C:\TAFESA\2022_S1\Adelaide - Subjects\ICTICT449GIT\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\Student Files\BankingApp\BankingApp\obj\Debug\BankingApp.pdb
+Y:\2023\Subjects\ICTICT449\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\Student Files\BankingApp\BankingApp\bin\Debug\BankingApp.exe.config
+Y:\2023\Subjects\ICTICT449\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\Student Files\BankingApp\BankingApp\bin\Debug\BankingApp.exe
+Y:\2023\Subjects\ICTICT449\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\Student Files\BankingApp\BankingApp\bin\Debug\BankingApp.pdb
+Y:\2023\Subjects\ICTICT449\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\Student Files\BankingApp\BankingApp\obj\Debug\BankingApp.csproj.AssemblyReference.cache
+Y:\2023\Subjects\ICTICT449\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\Student Files\BankingApp\BankingApp\obj\Debug\Banking.baml
+Y:\2023\Subjects\ICTICT449\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\Student Files\BankingApp\BankingApp\obj\Debug\MainWindow.baml
+Y:\2023\Subjects\ICTICT449\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\Student Files\BankingApp\BankingApp\obj\Debug\Banking.g.cs
+Y:\2023\Subjects\ICTICT449\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\Student Files\BankingApp\BankingApp\obj\Debug\MainWindow.g.cs
+Y:\2023\Subjects\ICTICT449\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\Student Files\BankingApp\BankingApp\obj\Debug\App.g.cs
+Y:\2023\Subjects\ICTICT449\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\Student Files\BankingApp\BankingApp\obj\Debug\BankingApp_MarkupCompile.cache
+Y:\2023\Subjects\ICTICT449\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\Student Files\BankingApp\BankingApp\obj\Debug\BankingApp.g.resources
+Y:\2023\Subjects\ICTICT449\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\Student Files\BankingApp\BankingApp\obj\Debug\BankingApp.Properties.Resources.resources
+Y:\2023\Subjects\ICTICT449\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\Student Files\BankingApp\BankingApp\obj\Debug\BankingApp.csproj.GenerateResource.cache
+Y:\2023\Subjects\ICTICT449\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\Student Files\BankingApp\BankingApp\obj\Debug\BankingApp.csproj.CoreCompileInputs.cache
+Y:\2023\Subjects\ICTICT449\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\Student Files\BankingApp\BankingApp\obj\Debug\BankingApp.exe
+Y:\2023\Subjects\ICTICT449\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\Student Files\BankingApp\BankingApp\obj\Debug\BankingApp.pdb
